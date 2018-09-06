@@ -25,7 +25,7 @@ Also add the Facade alias if you intend to use it :
 ## Configuration
 
 Set the env parameter `GCP_CREDENTIALS_PATH` to the absolute path
- (or relative to the laravel application root) of the servie account
+ (or relative to the laravel application root) of the service account
  JSON file downloaded from Google Console.
 
 ### Google service setup
